@@ -1,0 +1,16 @@
+{
+  "contact_time_s": 2.35,
+  "leg_drive": {
+    "right_knee_min_angle": 124,
+    "left_knee_min_angle": 129,
+    "hip_rise_torso_lengths": 0.43
+  },
+  "head_stability": {
+    "head_movement_torso_lengths": 0.98
+  },
+  "kinetic_chain": {
+    "hips_peak_ms_before_contact": 0,
+    "shoulders_peak_ms_before_contact": 98,
+    "correct_order": false
+  }
+}
